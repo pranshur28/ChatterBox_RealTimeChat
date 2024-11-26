@@ -136,20 +136,6 @@ ChatterBox is a modern, real-time chat application built with React, Node.js, an
 - Clean message layout
 - User-friendly forms
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - Material-UI for the beautiful components
@@ -157,8 +143,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - MongoDB for reliable data storage
 - The open-source community for inspiration and support
 
-## 📧 Contact
+## 📝 License
 
-Pranshur Jain - [@pranshur28](https://github.com/pranshur28)
-
-Project Link: [https://github.com/pranshur28/ChatterBox_RealTimeChat](https://github.com/pranshur28/ChatterBox_RealTimeChat)
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
