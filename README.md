@@ -143,6 +143,4 @@ ChatterBox is a modern, real-time chat application built with React, Node.js, an
 - MongoDB for reliable data storage
 - The open-source community for inspiration and support
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
